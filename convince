@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  
+</head>
+<body>
+  
+    <center>
+    
+    <nav>
+    <li class="nav"><a href="convince.html"> CONVINCE </a></li>
+    <li class="nav"><a href="noun.html"> NOUN </a></li>
+    <li class="nav"><a href="index.html"> HOME </a></li>
+   
+     
+  </nav>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <h1> The Birds Work for the Bourgeoisie </h1>
+   
+      
+  <h7> All of the birds died in 1986 due to Reagan killing them and replacing them with spies who are now watching us. The birds work for the bourgeoisie. </h7>
+      
+ </center> 
+     
+  <br>
+  <br>
+  <br>
+  
+      <h3> When was the last time you've seen a baby pigeon? Have you ever seen one with your own eyes? No. You haven't because all birds are government developed surveillance robots used to spy upon the human race. THE BIRDS WORK FOR THE BOURGEOISIE. </h3>
+
+        <h4> The ABWB-ers (anti-Birds Work for the Bourgeoisie) will try to tell you that you are crazy. That birds are in fact "real." BUT DON'T BE FOOLED. They are in on it too. Do NOT trust the birds. </h4>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  
+  <h5> The Birds Work for the Bourgeoisie campaign was started by Kendrick Smith in July 2019. Don't be ignorant, join the movement to take back our right to privacy. #BWB #Birdsrfake </h5>
+  
+
+  <br>
+  <br>
+ 
+  <center>
+    
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/c-xL6KTsm9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+  <br>
+  <br>
+  <br>    
+  <br>
+    
+  
+  <h7> Scroll for a short survey! </h7>
+ 
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+ <iframe class="form" src="https://docs.google.com/forms/d/e/1FAIpQLSdCkj-uVxdCd48qdtIwZz7d0tR7_ipnFQKvbSh-RDJEGZ3xrQ/viewform?embedded=true" width="640" height="979" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  
+    <h6> Stay safe. Spread the word. </h6>
+    
+    
+   </center>
+  
+</body>
+</html>
+
+
+<style>
+body{
+  background-color: #BFEAA3;
+}
+
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: #F5F2E8;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.nav {
+  display: inline;
+  float: right;
+  padding: 9px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 100%
+}
+
+.nav:hover {
+  background-color: hotpink;
+}
+
+h1 {
+  color: #333333;
+  font-size: 45px;
+  text-align: center;
+  line-height: 13px;
+  text-shadow: 3px 2px white;
+}
+
+h2, h7{
+  font-size: 18px;
+  font-family: Times New Roman;
+  line-height: 20px;
+}
+
+h3{
+  width: 60%;
+  background-color: #466362;
+}
+
+h5{
+  width: 50%;
+  background-color: #89A99E;
+}
+
+h3, h5{
+  font-size: 15px;
+  color: white;
+  font-family: Arial;
+  line-height: 19px;
+  text-align: center;
+  padding: 18px;
+}
+
+h4{
+  width: 55%;
+  font-size: 15px;
+  color: white;
+  font-family: arial;
+  background-color: #99C2A2;
+  line-height: 19px;
+  text-align: center;
+  padding: 18px;
+  float: right;
+}
+
+h6{
+  width: 100%;
+  font-size: 15px;
+  color: white;
+  font-family: arial;
+  background-color: #99C2A2;
+  line-height: 19px;
+  text-align: center;
+  padding: 2px;
+  
+}
+
+iframe{
+  width: 40%;
+  background-color: #466362;
+  padding: 25px;
+}
+
+.form{
+  width: 40%;
+  background-color: #89A99E;
+  padding: 25px;
+}
+</style>
