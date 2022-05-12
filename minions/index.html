@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <center><title>Minion Mayhem</title></center>
+</head>
+<body>
+  
+   <nav>
+    <li class="nav"><a href="../index.html"> Home </a></li>
+    <li class="nav"><a href="#movies"> In Theaters </a></li>
+    <li class="nav"><a href="#places"> Places to Stay</a></li>
+  </nav>
+ 
+  
+ <div class="wrapper">
+  <div class="box a">
+    <img class="title" src="https://github.com/WVCS/index-abbyjlee/blob/main/minions/minion%20title%20.png?raw=true">
+  </div>
+  <div class="box b">
+    <center><h1>Meet the gang leaders! </h1></center>
+  </div>
+   
+  <div class="box c">
+    <center><img id="myImage" src="https://raw.githubusercontent.com/WVCS/index-abbyjlee/main/minions/all%203.webp"> 
+  <br>
+<button id="leaders" onclick="document.getElementById('myImage').src='https://raw.githubusercontent.com/WVCS/index-abbyjlee/main/minions/bob.webp'"> BOB </button>
+
+<button id="leaders" onclick="document.getElementById('myImage').src='https://raw.githubusercontent.com/WVCS/index-abbyjlee/main/minions/stuart.webp'"> STUART </button>
+      
+<button id="leaders" onclick="document.getElementById('myImage').src='https://raw.githubusercontent.com/WVCS/index-abbyjlee/main/minions/kivin%20pt%202.webp'"> KEVIN </button>
+  <br></center>
+  </div>
+   
+   
+  <div class="box d">
+    <center id="places"><h2>Places to stay at Minion Mayhem</h2></center>
+  </div>
+  <div class="box e">
+    <img class="beachhotel" src="https://github.com/WVCS/index-abbyjlee/blob/main/minions/minion%20beach%20cropped.PNG?raw=true">
+  </div>
+  <div class="box f"><img class="gruhouse" src="https://github.com/WVCS/index-abbyjlee/blob/main/minions/grus%20house.PNG?raw=true"></div>
+      
+  <div class="box g"><img class="sleeplair" src="https://github.com/WVCS/index-abbyjlee/blob/main/minions/minions%20sleeping%20lair.PNG?raw=truee"></div>
+      
+  <div class="box h">
+    <center><h2 id="movies">Watch our diabolical schemes in theater!</h2></center>
+ </div>
+  <div class="box i">
+    <center><img class="minion1" src="https://i5.walmartimages.com/asr/9606a45c-87f6-436b-9832-dab3a17997dc_1.2552dee2f052f453961bb26a17e85d16.jpeg"></center>
+  </div>
+  <div class="box j">
+    <center><img class="minion2" src="https://www.pastposters.com/cw3/assets/product_expanded/JamieR-ROB/minions-cinema-one-sheet-movie-poster-(teaser-1).jpg"></center>
+  </div>
+  <div class="box k">
+    <center><img class="minion2" src="https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._V1_.jpg"></center>
+   </div>
+</div>
+  
+  
+</body>
+</html>
+
+
+<style>
+body {
+  margin-top: 0;
+  background-color: #FFFEF3;
+}
+
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: #4b6d87;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.nav {
+  display: inline;
+  float: right;
+  padding: 1vw;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 2vw;
+  font-family: 'Source Sans Pro';
+}
+
+a:hover {
+  color: black;
+}
+
+.nav:hover {
+  background-color: #fbd249;
+}
+
+.navtitle{
+  font-size: 3vw;
+  position: fixed;
+  top: 1vw;
+  left: 2vw;
+}
+
+.navsub{
+  font-size: 1.5vw;
+  position: fixed;
+  top: 4vw;
+  left: 3vw;
+}
+
+body {
+  margin: 40px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 32vw 32vw 32vw;
+  grid-gap: 1px;
+  color: #444;
+  margin-left:0;
+}
+
+.box {
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
+.title{
+  width:90vw;
+}
+
+#leaders {
+  transition-duration: 0.4s;
+  font-size: 2vw;
+}
+
+#leaders:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+h1{
+  margin-top: 0;
+  color:black;
+  text-shadow: 3px 2px #4b6d87;
+}
+
+h2{
+  margin-top:0;
+  color: black;
+}
+
+.beachhotel,.gruhouse,.sleeplair{
+  height:21vw;
+  float:left;
+  position: auto;
+} 
+.minion1,.minion2,.minion3{
+  width:21vw;
+}
+
+  
+#myImage{
+  height: 20vw;
+}
+
+@media (max-width: 1024px) {
+  
+  body{
+  background-color: #FFAF5A;
+  }
+}
+
+.a{
+grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 1;
+grid-row-end: 2;
+height: 47vw; 
+}
+.b{
+grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 2;
+grid-row-end: 3;
+height: 5vw; 
+}
+
+.c{
+grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 3;
+grid-row-end: 4;
+height: 27vw; 
+}
+.d{
+grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 4;
+grid-row-end: 5;
+height: 4vw; 
+}
+.e{
+grid-column-start: 1;
+grid-column-end: 2;
+grid-row-start: 5;
+grid-row-end: 6;
+height: 22vw;  
+}
+.f{
+grid-column-start: 2;
+grid-column-end: 3;
+grid-row-start: 5;
+grid-row-end: 6;
+height: 22vw; 
+}
+.g{
+grid-column-start: 3;
+grid-column-end: 4;
+grid-row-start: 5;
+grid-row-end: 6;
+height: 22vw; 
+}
+.h{
+grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 7;
+grid-row-end: 8;
+height: 3vw; 
+}
+.i{
+grid-column-start: 1;
+grid-column-end: 2;
+grid-row-start: 9;
+grid-row-end: 10;
+height: 4vw; 
+}
+.j{
+grid-column-start: 2;
+grid-column-end: 3;
+grid-row-start: 9;
+grid-row-end: 10;
+height: 4vw; 
+}
+.k{
+grid-column-start: 3;
+grid-column-end: 4;
+grid-row-start: 9;
+grid-row-end: 10;
+height: 20vw; 
+}
+</style>
